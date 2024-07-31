@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="81.702596">
+    <testcase classname="To buy a realme wireless earbuds in the amazon website functionality" name="_2" time="81.702596">
+        <system-out><![CDATA[Given To launch chrome and maximize it......................................passed
+When To enter the amazon URL................................................passed
+And To hover to hello,signin accounts and lists.............................passed
+And To click signin.........................................................passed
+And To enter email id and select continue...................................passed
+And To enter password values and click sign in..............................passed
+And To select the electronics option in the All dropdown and click search icon.passed
+And To scrolldown to headphones icon and click it...........................passed
+And To enter realme in the search box and click search......................passed
+And To scrolldown to realme techlife buds T100 earbuds and click it.........passed
+And To click gotocart.......................................................passed
+And To print the amount of one product......................................passed
+And To increase the quantity to four and print total amount.................passed
+And To click proceed to buy.................................................passed
+And To take screenshot......................................................passed
+Then To close the browser...................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

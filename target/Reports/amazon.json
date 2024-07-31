@@ -1,0 +1,230 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3714223400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "To launch chrome and maximize it",
+            "match": {
+              "location": "AmazonProject.to_launch_chrome_and_maximize_it()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 8582788800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "To enter the amazon URL",
+            "match": {
+              "location": "AmazonProject.to_enter_the_amazon_URL()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 7,
+        "name": "",
+        "description": "",
+        "id": "to-buy-a-realme-wireless-earbuds-in-the-amazon-website-functionality;",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 343324800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "To hover to hello,signin accounts and lists",
+            "match": {
+              "location": "AmazonProject.to_hover_to_hello_signin_accounts_and_lists()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1822395600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "To click signin",
+            "match": {
+              "location": "AmazonProject.to_click_signin()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 413599600,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "To enter email id and select continue",
+            "match": {
+              "location": "AmazonProject.to_enter_email_id_and_select_continue()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2181394400,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "To enter password values and click sign in",
+            "match": {
+              "location": "AmazonProject.to_enter_password_values_and_click_sign_in()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 31959008800,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "To select the electronics option in the All dropdown and click search icon",
+            "match": {
+              "location": "AmazonProject.to_select_the_electronics_option_in_the_All_dropdown_and_click_search_icon()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3308451600,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "To scrolldown to headphones icon and click it",
+            "match": {
+              "location": "AmazonProject.to_scrolldown_to_headphones_icon_and_click_it()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6377086400,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "To enter realme in the search box and click search",
+            "match": {
+              "location": "AmazonProject.to_enter_realme_in_the_search_box_and_click_search()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 764324600,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "To scrolldown to realme techlife buds T100 earbuds and click it",
+            "match": {
+              "arguments": [
+                {
+                  "val": "100",
+                  "offset": 39
+                }
+              ],
+              "location": "AmazonProject.to_scrolldown_to_realme_techlife_buds_T_earbuds_and_click_it(Integer)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 9498805600,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "To click gotocart",
+            "match": {
+              "location": "AmazonProject.to_click_gotocart()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 281900,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "To print the amount of one product",
+            "match": {
+              "location": "AmazonProject.to_print_the_amount_of_one_product()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 382191200,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "To increase the quantity to four and print total amount",
+            "match": {
+              "location": "AmazonProject.to_increase_the_quantity_to_four_and_print_total_amount()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7180410300,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "To click proceed to buy",
+            "match": {
+              "location": "AmazonProject.to_click_proceed_to_buy()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 427531300,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "To take screenshot",
+            "match": {
+              "location": "AmazonProject.to_take_screenshot()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1442333400,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "To close the browser",
+            "match": {
+              "location": "AmazonProject.to_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To buy a realme wireless earbuds in the amazon website functionality",
+    "description": "",
+    "id": "to-buy-a-realme-wireless-earbuds-in-the-amazon-website-functionality",
+    "keyword": "Feature",
+    "uri": "src/test/resources/Features2/amazon.feature",
+    "tags": []
+  }
+]
